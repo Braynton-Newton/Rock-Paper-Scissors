@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+.btn{
+    display: block;
+    margin: auto;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+body{
+    background-color: blue;
+}

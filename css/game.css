@@ -1,0 +1,38 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-size: 2rem;
+}
+h1{
+    margin: 30px;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: red;
+}
+body{
+    background-color: blue;
+}
+.rock{
+    display: inline-block;
+    text-align: center;
+}
+.btn{
+    margin-top: 50px;
+    display: box;
+    width: 20%;
+    background-color: white;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    padding-right: 28px;
+    font-size: 16px;
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    color: red;
+}
